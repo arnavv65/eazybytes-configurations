@@ -1,0 +1,29 @@
+#server:
+#  port: 8080
+#spring:
+#  application:
+#    name: accounts
+#
+#  datasource:
+#    url: jdbc:mysql://localhost:3333/accounts
+#    username: root
+#    password: root@123
+#    driver-class-name: com.mysql.jdbc.Driver
+#
+#  jpa:
+#    show-sql: false
+#    hibernate:
+#      ddl-auto: update
+#      dialect: org.hibernate.dialect.MySQLDialect
+
+build:
+  version: "6.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
