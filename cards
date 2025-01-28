@@ -1,0 +1,28 @@
+#server:
+#  port: 9000
+#spring:
+#  application:
+#    name: accounts
+#
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/cards
+#    username: root
+#    password: root@123
+#
+#  jpa:
+#    show-sql: false
+#    hibernate:
+#      ddl-auto: update
+#
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
