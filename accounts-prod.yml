@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prodution APIs "
   contactDetails:
     name: "Arnav Sharma -  Prod Lead"
-    email: "arnav@eazybank.com"
+    email: "{cipher}0156defc28529d5d1ae1e236f48c58c36cdf8dcc2d8172699f2fa5ac3e021d160d3f6dda3cacb4ce0d4c8f80530c7a21"
   onCallSupport:
     - (111) 555-6785
     - (111) 523-6543
