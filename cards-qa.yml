@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
-    name: "Arnav Sharma -  QualityAssurance Lead"
+    name: "Arnav Sharma -  QA Lead"
     email: "arnav@eazybank.com"
   onCallSupport:
     - (888) 555-7676
