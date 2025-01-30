@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related Prodution APIs "
   contactDetails:
-    name: "Arnav Sharma -  Prod Lead"
+    name: "Arnav Sharma -  Product Owner"
     email: "arnav@eazybank.com"
   onCallSupport:
     - (111) 555-6785
